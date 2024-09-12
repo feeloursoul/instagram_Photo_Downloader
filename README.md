@@ -20,18 +20,19 @@ javascript: (function() {
 
 <br>
 <br>
-Paste the JavaScript code directly into the address box. Give your bookmarklet a name and save it.
-<br>
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/82f44e51-546c-4bd5-b081-b40da4f8f62f)
 
 <br>
 <br>
-Click bookmarklet on address box.
+
+## Click bookmarklet on address box.
+
 <br>
 <br>
 
 ![image](https://github.com/user-attachments/assets/2b2467fd-0007-4cab-8c45-e75457994172)
 
-Save Image As right click and download your favorite photo.
+### Save Image As right click and download your favorite photo.
