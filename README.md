@@ -1,6 +1,6 @@
 # instagram_Photo_Downloader
 <br>
-```
+`
 javascript: (function() {
 	const img = document.querySelector('article img');
 	if (img) {
@@ -16,7 +16,7 @@ javascript: (function() {
 		);
 	}
 })();
-```
+`
 
 <br>
 <br>
