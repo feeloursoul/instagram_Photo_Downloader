@@ -23,7 +23,8 @@ javascript: (function() {
 
 <br>
 
-![image](https://github.com/user-attachments/assets/82f44e51-546c-4bd5-b081-b40da4f8f62f)
+![image](https://github.com/user-attachments/assets/8dd9dfbc-5c7b-424d-8845-0d00aec169a0)
+
 
 <br>
 <br>
@@ -33,6 +34,13 @@ javascript: (function() {
 <br>
 <br>
 
-![image](https://github.com/user-attachments/assets/2b2467fd-0007-4cab-8c45-e75457994172)
+![image](https://github.com/user-attachments/assets/6d594a05-e7f2-4b8c-a2cf-d98c1bc98543)
 
-### Save Image As right click and download your favorite photo.
+<br>
+<br>
+
+### Right-click on the image you want to save.
+
+<br>
+
+
