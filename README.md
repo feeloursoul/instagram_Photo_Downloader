@@ -1,4 +1,4 @@
-# instagram_Photo_Downloader
+# Instagram_Photo_Downloader
 
 ```
 javascript: (function() {
@@ -21,7 +21,7 @@ javascript: (function() {
 <br>
 <br>
 
-## choose the instagram photo
+## Choose The Instagram Photo
 
 <br>
 <br>
